@@ -10,3 +10,8 @@ function minMax(arr){
 }
 
 console.log(minMax(array))
+function sum (arr){
+    return array.reduce(function(a,b){return a+b;})
+    
+}
+console.log(sum(array))
